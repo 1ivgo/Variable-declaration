@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Parser.cpp
+  SixNumber.cpp
+  Variable.cpp
+  Создание кода
+c:\users\user\yandexdisk-ivgo1\projects\sixnumber\sixnumber\parser.cpp(97): warning C4715: Parser::scanner: значение возвращается не при всех путях выполнения
+  All 258 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SixNumber.vcxproj -> C:\Users\user\YandexDisk-ivgo1\Projects\SixNumber\Release\SixNumber.exe
+  SixNumber.vcxproj -> C:\Users\user\YandexDisk-ivgo1\Projects\SixNumber\Release\SixNumber.pdb (Full PDB)
